@@ -5,7 +5,8 @@ module.exports = {
       colors: {
         'dark-gray': '#111111',
         'light-gray': '#090B0C',
-        'green-gray': '#070D0A'
+        'green-gray': '#070D0A',
+        'spotify': '#1DB954',
       },
       fontFamily: {
         'roboto': ['Roboto', 'sans-serif'],
